@@ -5,7 +5,8 @@ function NoteSection({ notes, onNewNote, onDelete }) {
 		<section className="relative z-10 mt-[38px]" aria-labelledby="notes-heading">
 			<div className="mb-5 flex flex-col items-start gap-2 sm:flex-row sm:items-center sm:justify-between">
 				<h2 id="notes-heading" className="text-2xl font-bold">BRAIN DUMP</h2>
-				<span className="text-[10px] text-[#85858d]">December 2021</span>
+				<span className="text-[10px] text-[#85858d]">December 2056
+				</span>
 			</div>
 
 			<div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
